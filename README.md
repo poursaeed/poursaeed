@@ -2,7 +2,7 @@
 - I’m interested in Functional programming , Web dev and Embedded softwares.
 - I’m currently learning python N pandas.
 - 📫 How to reach me ...
-    - [twitter.com/ShapurII](https://twitter.com/ShapurII)
+    - [twitter](https://twitter.com/ali_poursaeed)
     - alipoursaeed@proton.me
 
 <!---
